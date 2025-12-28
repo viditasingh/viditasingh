@@ -1,8 +1,10 @@
 <!-- Banner -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1000&center=true&vCenter=true&width=435&lines=Vidita+Singh;React+%26+Django+Developer;Competitive+Programmer;Passionate+about+solving+problems+through+code+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Vidita+Singh;React+%26+Django+Developer;Competitive+Programmer)](https://git.io/typing-svg)
+<p align="center">
+  <strong>Passionate about solving problems through code ❤️</strong>
+</p>
 </div>
 
 
