@@ -60,25 +60,18 @@
 
   <!-- Codeforces Card -->
   <a href="https://codeforces.com/profile/viditasingh" target="_blank" style="flex: 1 1 45%; max-width: 45%;">
-    <picture>
-      <source srcset="https://codeforces-readme-stats.vercel.app/api/card?username=viditasingh&theme=dark" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://codeforces-readme-stats.vercel.app/api/card?username=viditasingh&theme=swift" media="(prefers-color-scheme: light)" />
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=viditasingh&theme=dark"
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=viditasingh&theme=dark"
           alt="CF Rating" />
-    </picture>
   </a>
 
   <!-- LeetCode Card -->
   <a href="https://leetcode.com/viditasingh/" target="_blank" style="flex: 1 1 45%; max-width: 45%;">
-    <picture>
-      <source srcset="https://leetcard.jacoblin.cool/viditasingh?theme=dark&font=Montserrat&ext=heatmap" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://leetcard.jacoblin.cool/viditasingh?theme=light&font=Montserrat&ext=heatmap" media="(prefers-color-scheme: light)" />
-      <img src="https://leetcard.jacoblin.cool/viditasingh?theme=dark&font=Montserrat&ext=heatmap"
+   <img src="https://coding-profile.vercel.app/api?username=viditasingh&theme=Dark"
           alt="LeetCode Stats" />
-    </picture>
   </a>
-
 </div>
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/viditasingh?theme=dark&font=Montserrat&ext=heatmap) -->
 
 ---
 
